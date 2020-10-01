@@ -4,6 +4,7 @@ public class Problem1 {
     public static int binarySearch(int[] data, int target) {
         // Add your solution
         // hio
+        // hi
         return -1; // Place holder
     }
 }

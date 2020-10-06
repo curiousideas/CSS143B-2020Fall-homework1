@@ -21,7 +21,7 @@ public class Problem2 {
             System.out.print(data[i]);
         }
         System.out.println();
-            /*if (i == 0) {
+            /* if (i == 0) {
                 System.out.print("{" + data[i]);
             } else {
                 System.out.print(", " + data[i]);
@@ -29,6 +29,5 @@ public class Problem2 {
         }
         System.out.print("}");
        */
-
     }
 }
